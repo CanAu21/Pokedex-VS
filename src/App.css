@@ -1,0 +1,5 @@
+.App h1 {
+    background:  linear-gradient(to right, #caabdf, #b286c4, #9c61a9, #863b8c, #71036f);
+    color: transparent;
+    -webkit-background-clip: text;
+}
